@@ -29,7 +29,7 @@ dd,dt,h1,h2,h3,h4,h5,p {
 aside {
 	position:fixed;
 	right:0;
-	top:20%;
+	top:20%;/**/
 	z-index:2
 }
 aside li {
